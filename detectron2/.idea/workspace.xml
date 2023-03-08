@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09ffcbe9-67ee-4ac5-96bd-52f4dae3c689" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/application_util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/application_util/image_viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/application_util/preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/application_util/visualization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/iou_matching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/kalman_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/linear_assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/nn_matching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/track.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort/tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/deep_sort_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/evaluate_motchallenge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/generate_videos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/show_results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/tools/freeze_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deep_sort/tools/generate_detections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/deepsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/nanonets_object_tracking/deepsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanonets_object_tracking/siamese_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/nanonets_object_tracking/siamese_train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nanonets_object_tracking" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LmJ6Pxya3nNfMncxOwDuEXPKq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="detectron2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Aditya\.conda\envs\det\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_on_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="detectron2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanonets_object_tracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanonets_object_tracking/test_on_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test_on_video" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_on_video" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09ffcbe9-67ee-4ac5-96bd-52f4dae3c689" name="Changes" comment="" />
+      <created>1676470150427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676470150427</updated>
+    </task>
+    <servers />
+  </component>
+</project>
